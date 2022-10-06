@@ -11,6 +11,11 @@ header {
     margin: 1px;
 }
 
+img {
+    width: 250px;
+    height: 150px;
+}
+
 .right-links {
     display: flex;
     list-style: none;
