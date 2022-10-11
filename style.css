@@ -44,7 +44,7 @@ main {
     align-items: center;
 }
 
-quote {
+quotes {
     display: flex;
     justify-content: center;
     align-items: center;
