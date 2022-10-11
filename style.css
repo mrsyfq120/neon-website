@@ -31,3 +31,15 @@ main {
 .media {
     display: flex;
 }
+
+.info-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.infos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
