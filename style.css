@@ -27,3 +27,7 @@ main {
     display: flex;
     flex-direction: column;
 }
+
+.media {
+    display: flex;
+}
