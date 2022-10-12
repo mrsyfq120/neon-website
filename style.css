@@ -11,3 +11,16 @@
 .page-main {
     flex-grow: 1;
 }
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-header > ul {
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+}
+
