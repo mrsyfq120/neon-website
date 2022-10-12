@@ -16,6 +16,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #1f2937;
+    color: white;
 }
 
 .page-header > ul {
