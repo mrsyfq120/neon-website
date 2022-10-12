@@ -37,6 +37,12 @@
     display: flex;
 }
 
+.main-title > .title-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .page-main > h2 {
     display: flex;
     justify-content: center;
