@@ -46,3 +46,8 @@
     align-items: center;
     gap: 30px;
 }
+
+.subtext {
+    display: flex;
+    justify-content: center;
+}
