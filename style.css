@@ -59,3 +59,8 @@
     flex-direction: column;
     background-color: #e5e7eb;
 }
+
+.quote-section > h3 {
+    display: flex;
+    margin-left: 230px;
+}
