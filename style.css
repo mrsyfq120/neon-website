@@ -70,3 +70,11 @@
     align-items: center;
     justify-content: space-evenly;
 }
+
+.page-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;
+    color: white;
+}
