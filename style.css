@@ -46,11 +46,18 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-left: 125px;
 }
 
-/* .main-title > .title-media {
-    display: flex;
-} */ 
+.title-text > .hero-text {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.title-text > .hero-info {
+    font-size: 18px;
+    color: #f9faf8;
+}
 
 .page-main > h2 {
     display: flex;
