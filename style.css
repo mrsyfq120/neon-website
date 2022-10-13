@@ -122,6 +122,9 @@
     gap: 200px;
     background-color: #3b82f6;
     border-radius: 20px;
+    flex-grow: 1;
+    margin-left: 250px;
+    margin-right: 250px;
 }
 
 .page-footer {
