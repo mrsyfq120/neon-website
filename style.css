@@ -128,6 +128,15 @@
     margin-right: 550px;
 }
 
+.register-box > .register-texts {
+    display: flex;
+    flex-direction: column;
+}
+
+.register-texts > .register-title {
+    font-weight: bolder;
+}
+
 .page-footer {
     display: flex;
     align-items: center;
