@@ -106,6 +106,7 @@
 .quote-section > .quote-speaker {
     display: flex;
     margin-left: 230px;
+    font-weight: bold;
 }
 
 .register-section {
