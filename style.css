@@ -112,7 +112,14 @@
 .register-section {
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
+}
+
+.register-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
 }
 
 .page-footer {
