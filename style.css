@@ -35,6 +35,11 @@
 
 .main-title {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1f2937;
+    color: white;
+    flex-wrap: wrap;
 }
 
 .main-title > .title-text {
