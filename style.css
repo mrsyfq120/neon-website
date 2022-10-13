@@ -113,6 +113,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #3b82f6;
+    margin-left: 260px;
+    margin-right: 260px;
+    border-radius: 20px;
 }
 
 .register-box {
