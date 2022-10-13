@@ -91,9 +91,15 @@
     justify-content: center;
     flex-direction: column;
     background-color: #e5e7eb;
+    padding: 90px;
 }
 
-.quote-section > h3 {
+.quote-section > .quote-said {
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-section > .quote-speaker {
     display: flex;
     margin-left: 230px;
 }
