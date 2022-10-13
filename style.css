@@ -64,6 +64,11 @@
     justify-content: center;
 }
 
+.info-row > h2 {
+    display: flex;
+    justify-content: center;
+}
+
 .info-section > .info-media {
     display: flex;
     justify-content: center;
