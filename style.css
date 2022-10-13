@@ -97,6 +97,7 @@
 .quote-section > .quote-said {
     justify-content: center;
     align-items: center;
+    font-size: 36px;
 }
 
 .quote-section > .quote-speaker {
