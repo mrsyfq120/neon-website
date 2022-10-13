@@ -131,6 +131,8 @@
 .register-box > .register-texts {
     display: flex;
     flex-direction: column;
+    color: #f9faf8;
+
 }
 
 .register-texts > .register-title {
