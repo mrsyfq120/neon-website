@@ -90,6 +90,8 @@
     gap: 30px;
 }
 
+
+
 .subtext {
     display: flex;
     justify-content: center;
@@ -150,7 +152,7 @@
     font-weight: bolder;
 }
 
-button {
+.register-button > button{
     display: flex;
     justify-content: center;
     align-items: center;
