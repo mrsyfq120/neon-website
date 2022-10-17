@@ -140,6 +140,19 @@
     font-weight: bolder;
 }
 
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: white 1px solid;
+    /* color: #3b82f6; */
+    background-color: #3b82f6;
+    color: white;
+    border-radius: 5px;
+    width: 120px;
+    height: 50px;
+}
+
 .page-footer {
     display: flex;
     align-items: center;
