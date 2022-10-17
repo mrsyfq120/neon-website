@@ -61,6 +61,13 @@
     color: #f9faf8;
 }
 
+.main-title > .title-media {
+    display: flex;
+    margin-inline: 260px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 .page-main > h2 {
     display: flex;
     justify-content: center;
