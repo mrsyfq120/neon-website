@@ -103,7 +103,10 @@
     gap: 30px;
 }
 
-
+.info-box {
+    border: #3b82f6 6px solid;
+    border-radius: 10px;
+}
 
 .subtext {
     display: flex;
