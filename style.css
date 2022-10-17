@@ -52,6 +52,19 @@
     margin-left: 125px;
 }
 
+.main-button {
+    padding: 10px;
+}
+
+.main-button > button {
+    /* color: #3b82f6; */
+    background-color: #3b82f6;
+    color: white;
+    border-radius: 5px;
+    width: 110px;
+    height: 33px;
+}
+
 .title-text > .hero-text {
     font-size: 48px;
     font-weight: bolder;
